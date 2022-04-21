@@ -1,0 +1,10 @@
+/home/isakhanli/Desktop/test/ServiceA/src/main/java/com/test/servicea/FindSumDto.java
+/home/isakhanli/Desktop/test/ServiceA/src/main/java/com/test/servicea/ServiceAApplication.java
+/home/isakhanli/Desktop/test/ServiceA/src/main/java/com/test/servicea/ServiceAContoller.java
+/home/isakhanli/Desktop/test/ServiceA/target/generated-sources/protobuf/java/com/test/serviceb/SumResponse.java
+/home/isakhanli/Desktop/test/ServiceA/src/main/java/com/test/servicea/GRPCClientService.java
+/home/isakhanli/Desktop/test/ServiceA/target/generated-sources/protobuf/java/com/test/serviceb/SumRequestOrBuilder.java
+/home/isakhanli/Desktop/test/ServiceA/target/generated-sources/protobuf/java/com/test/serviceb/SumRequest.java
+/home/isakhanli/Desktop/test/ServiceA/target/generated-sources/protobuf/java/com/test/serviceb/SumResponseOrBuilder.java
+/home/isakhanli/Desktop/test/ServiceA/target/generated-sources/protobuf/java/com/test/serviceb/Findsum.java
+/home/isakhanli/Desktop/test/ServiceA/target/generated-sources/protobuf/grpc-java/com/test/serviceb/FindSumServiceGrpc.java
